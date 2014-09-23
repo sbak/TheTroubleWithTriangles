@@ -11,6 +11,18 @@ Please update these as they are completed or add notes for all of us in here.
 See [markdown reference](https://daringfireball.net/projects/markdown/basics)
 for help with this synatx.
 
+## Milestone One
+Gui:
+* JComboBox loads and displays 3 target images
+* Next button shows 200 triangles with random vertices, random RGB color and
+	random transparency
+* At each generation, fitness value is correctly calculated and displayed
+* Sleep slider, pause, back, and reset buttons work correctly
+* code is commented, clear, and so on. 
+
+
+
+
 ## gui
 ### Target image area
 
